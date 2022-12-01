@@ -1,23 +1,34 @@
 <template>
-  <header id="header">
-    <div id="logo">
-      <router-link to="/"><img src="./assets/thebgci-logo-800.png" alt="The Beautiful Garden Church International"></router-link>
-    </div>
-    <nav id="nav">
-      <router-link to="/" class="home">Home</router-link>
-      <router-link to="/about" class="about">About</router-link>
-    </nav>
-  </header>
+  <NavBarVue />
   <main>
     <router-view/>
   </main>
+  <FooterVue />
 </template>
+<script>
+import NavBarVue from './components/NavBar.vue';
+import FooterVue from './components/Footer.vue'
+
+export default{
+  name: "App",
+  components: {
+    NavBarVue,
+    FooterVue
+  }
+}
+
+</script>
 
 <style lang="scss">
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: #000;
 }
 
 #app {
