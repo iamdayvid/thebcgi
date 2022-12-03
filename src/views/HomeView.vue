@@ -1,11 +1,20 @@
 <template>
   <div class="home">
+    <!-- Banner or Jumbotron -->
     <JumbotronCom />
 
     <section id="contents">
-      <AsideVue />
+      <!-- Worship with Us Component -->
+      <AsideVue heading="Worship With US" />
+
+      <!-- Main Feed -->
       <FeedVue />
-      <AsideVue />
+
+      <!-- Upcoming Events Component -->
+      <AsideVue 
+        heading="Upcoming Events" 
+        msg="loremahhhhh"
+        />
 
     </section>
   </div>

@@ -1,6 +1,6 @@
 <template>
   <div id="banner">
-   <img src="../assets/theme-of-the-year.jpg" alt="The Theme of the Year Banner">
+   <img src="../assets/theme-of-the-year-desktop.jpg" alt="The Theme of the Year Banner">
   </div>
 </template>
 
@@ -15,7 +15,7 @@ export default {
 <style scoped lang="scss">
 #banner{
   width: 100%;
-  height: 470px;
+  height: 512px;
   // background-image: url("../assets/theme-of-the-year.jpg");
   // background-size: cover;
   // // background-repeat: no-repeat;
