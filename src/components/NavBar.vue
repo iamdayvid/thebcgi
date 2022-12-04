@@ -1,4 +1,5 @@
 <template>
+    <!-- NavBar Component -->
     <header id="header">
         <div id="logo">
             <router-link to="/"><img src="../assets/thebgci-logo-800.png"

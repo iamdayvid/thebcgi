@@ -1,4 +1,5 @@
 <template>
+  <!-- Homepage View -->
   <div class="home">
     <!-- Banner or Jumbotron -->
     <JumbotronCom />
@@ -37,7 +38,8 @@ export default {
 </script>
 <style scoped lang="scss">
   #contents{
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
     padding: 20px 20px 0px;
   }
 </style>

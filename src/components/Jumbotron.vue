@@ -1,4 +1,6 @@
 <template>
+  <!-- Jumbotron Component -->
+  <!-- Theme of the Year Banner Goes Here -->
   <div id="banner">
    <img src="../assets/theme-of-the-year-desktop.jpg" alt="The Theme of the Year Banner">
   </div>

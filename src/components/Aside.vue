@@ -1,4 +1,5 @@
 <template>
+    <!-- Aside Component -->
     <section class="aside">
         <h2>{{heading}}</h2>
         <p>{{msg}}</p>
@@ -20,9 +21,9 @@ export default{
 <style scoped lang="scss">
     .aside{
         // width: 300px;
-        flex-basis: 500px;
-        flex-grow: 199;
+        
         min-height: 250px;
+        max-height: 700px;
         background-color: antiquewhite;
     }
 

@@ -1,4 +1,6 @@
 <template>
+    <!-- Feed Component -->
+    <!-- Main Contents Goes Here, News and Live Events -->
     <section id="feed-container">
         <article class="feed-card">
             <h2>Day 1 (One)</h2>
@@ -8,7 +10,60 @@
             </p>
 
         </article>
-
+        <article class="feed-card">
+            <h2>Day 1 (One)</h2>
+            <h3>The Title of the Scripture</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, dolore veniam, modi pariatur repellat
+                corporis aspernatur error, dolores architecto sapiente quisquam facilis ad nemo harum debitis sit autem
+                accusantium odit illum vel aut tempora consequuntur. Eos consequuntur, eaque, explicabo perferendis
+                exercitationem debitis, numquam dolor quisquam amet reprehenderit quae aspernatur! Incidunt?
+            </p>
+        
+        </article>
+        <article class="feed-card">
+            <h2>Day 1 (One)</h2>
+            <h3>The Title of the Scripture</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, dolore veniam, modi pariatur repellat
+                corporis aspernatur error, dolores architecto sapiente quisquam facilis ad nemo harum debitis sit autem
+                accusantium odit illum vel aut tempora consequuntur. Eos consequuntur, eaque, explicabo perferendis
+                exercitationem debitis, numquam dolor quisquam amet reprehenderit quae aspernatur! Incidunt?
+            </p>
+        
+        </article>
+        <article class="feed-card">
+            <h2>Day 1 (One)</h2>
+            <h3>The Title of the Scripture</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, dolore veniam, modi pariatur repellat
+                corporis aspernatur error, dolores architecto sapiente quisquam facilis ad nemo harum debitis sit autem
+                accusantium odit illum vel aut tempora consequuntur. Eos consequuntur, eaque, explicabo perferendis
+                exercitationem debitis, numquam dolor quisquam amet reprehenderit quae aspernatur! Incidunt?
+            </p>
+        
+        </article>
+        <article class="feed-card">
+            <h2>Day 1 (One)</h2>
+            <h3>The Title of the Scripture</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, dolore veniam, modi pariatur repellat
+                corporis aspernatur error, dolores architecto sapiente quisquam facilis ad nemo harum debitis sit autem
+                accusantium odit illum vel aut tempora consequuntur. Eos consequuntur, eaque, explicabo perferendis
+                exercitationem debitis, numquam dolor quisquam amet reprehenderit quae aspernatur! Incidunt?
+            </p>
+        
+        </article>
+        <article class="feed-card">
+            <h2>Day 1 (One)</h2>
+            <h3>The Title of the Scripture</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, dolore veniam, modi pariatur repellat
+                corporis aspernatur error, dolores architecto sapiente quisquam facilis ad nemo harum debitis sit autem
+                accusantium odit illum vel aut tempora consequuntur. Eos consequuntur, eaque, explicabo perferendis
+                exercitationem debitis, numquam dolor quisquam amet reprehenderit quae aspernatur! Incidunt?
+            </p>
+        </article>
     </section>
 </template>
 <script>

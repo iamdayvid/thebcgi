@@ -1,4 +1,5 @@
 <template>
+    <!-- Footer Component -->
     <footer id="footer">
         <div class="nav-links">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla, suscipit!
